@@ -17,3 +17,14 @@
 
 
 // All the datatypes that have not yet discussed will be added earlier
+
+
+// ********************* MEMORIES ***************************
+
+// Two types of memories, stack and heap.
+
+// All the primitive data types use stack memory.
+// All the non-primitive data types use heap memory.
+
+// Primitive -> stack -> copy
+// Non-Primitive -> heap -> reference 
